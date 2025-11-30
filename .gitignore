@@ -1,5 +1,5 @@
 build.ps1
-dist/
-build/
-*.spec
-__pycache__/
+version.json
+CHANGELOG.md
+build_log.txt
+
