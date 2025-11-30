@@ -1,0 +1,5 @@
+build.ps1
+dist/
+build/
+*.spec
+__pycache__/
